@@ -1,5 +1,8 @@
 {
   "name": "ball8",
-  "app_id": "",
-  "type": "ionic1"
+  "app_id": "94805940",
+  "type": "ionic1",
+  "watchPatterns": [
+    "scss/**/*"
+  ]
 }
